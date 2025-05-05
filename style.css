@@ -1,0 +1,37 @@
+body {
+    font-family: century gothic;
+
+
+}
+
+header a{
+    border: solid 2px blue;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+header{
+    padding: 20px;
+    background-image: linear-gradient(to left,lightblue,white);
+    
+}
+
+main{
+    background-image: linear-gradient(to left, lightblue,white);
+    padding: 20px;
+    text-align: center;
+    
+}
+
+footer{
+    padding: 20px;
+    background-image: linear-gradient(to left, lightblue,white);
+}
+
+main img{
+    text-align: center;
+}
+
